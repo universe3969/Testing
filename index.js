@@ -1,0 +1,1 @@
+var today = "A good day to have a great day!"
